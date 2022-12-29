@@ -12,7 +12,7 @@
 
 ### 💻 I'm using..  
 - [![](https://img.shields.io/badge/-7Pro-informational?logo=oneplus)](https://www.oneplus.com/cn/7pro#/)
-- [![](https://camo.githubusercontent.com/352404d31e5ae56e6718fbfd4b7716a0fbe1a1c9d01c678d6aec6ad85a283ad4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696425323031322d3364646338343f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964266c6f676f436f6c6f723d666666666666)](https://www.android.com/android-12/)
+- [![](https://camo.githubusercontent.com/352404d31e5ae56e6718fbfd4b7716a0fbe1a1c9d01c678d6aec6ad85a283ad4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f696425323031322d3364646338343f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964266c6f676f436f6c6f723d666666666666)](https://www.android.com/android-13/)
 - [![](https://img.shields.io/badge/-PixelExperience-red?logo=google)](https://download.pixelexperience.org/)
 - [![](https://img.shields.io/badge/-Windows11-informational?logo=windows)](https://www.microsoft.com/zh-cn/windows/windows-11)
 - [![](https://img.shields.io/badge/-iMac-lightgrey?logo=apple)](https://www.apple.com/imac-24/)  
